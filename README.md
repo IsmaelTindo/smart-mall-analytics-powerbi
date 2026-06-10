@@ -24,6 +24,82 @@ L'objectif est d'aider les décideurs à suivre :
 
 ---
 
+## 📂 Dataset
+
+Dataset utilisé :
+
+Customer Shopping Dataset - Retail Sales Data
+
+Source : Kaggle
+
+Le dataset contient les informations suivantes :
+
+- Transactions
+- Clients
+- Centres commerciaux
+- Catégories produits
+- Moyens de paiement
+- Dates d'achat
+
+---
+
+## 🏗 Modèle de données
+
+Le projet repose sur un modèle en étoile conçu pour optimiser les performances Power BI.
+
+### Table de faits
+
+- FactSales
+
+### Tables de dimensions
+
+- DimCustomer
+- DimMall
+- DimCategory
+- DimPayment
+- DimDate
+
+Cette modélisation permet une analyse efficace des ventes, des clients et des performances des centres commerciaux.
+
+---
+
+## 🚀 Compétences démontrées
+
+Au travers de ce projet, les compétences suivantes ont été mises en œuvre :
+
+- Power BI
+- Power Query
+- DAX
+- Modélisation de données (Star Schema)
+- Création de KPIs
+- Drillthrough
+- Navigation entre pages
+- Data Storytelling
+- Analyse métier
+- Visualisation de données
+
+---
+
+## 🎯 Cas d'usage métier
+
+Cette solution décisionnelle peut être utilisée par :
+
+- Directeurs de centres commerciaux
+- Responsables commerciaux
+- Équipes marketing
+- Contrôleurs de gestion
+- Directions opérationnelles
+
+afin de :
+
+- Suivre le chiffre d'affaires en temps réel
+- Identifier les centres commerciaux les plus performants
+- Analyser le comportement des clients
+- Optimiser les actions marketing
+- Faciliter la prise de décision grâce à la donnée
+
+---
+
 # 📊 Executive Overview
 
 Vue d'ensemble des indicateurs stratégiques.
