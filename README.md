@@ -19,8 +19,10 @@ L'objectif est d'aider les décideurs à suivre :
 - Power BI
 - Power Query
 - DAX
-- Data Modeling
+- Data Modeling (Star Schema)
 - Business Intelligence
+- Datavisualization
+- Github
 
 ---
 
