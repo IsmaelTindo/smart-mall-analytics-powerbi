@@ -28,7 +28,7 @@ L'objectif est d'aider les décideurs à suivre :
 
 Vue d'ensemble des indicateurs stratégiques.
 
-![Executive Overview](captures%20d'écran/Aperçu%20général.png)
+![Executive Overview](screenshots/Executive%20Overview.png)
 
 ---
 
@@ -36,7 +36,7 @@ Vue d'ensemble des indicateurs stratégiques.
 
 Comparaison des performances des différents centres commerciaux.
 
-![Centres commerciaux](captures%20d'écran/Centres%20Commerciaux.png)
+![Centres commerciaux](screenshots/Centres%20Commerciaux.png)
 
 ---
 
@@ -44,7 +44,7 @@ Comparaison des performances des différents centres commerciaux.
 
 Analyse approfondie grâce au Drillthrough Power BI.
 
-![Détails centres commerciaux](captures%20d'écran/Détails%20Centres%20Commerciaux.png)
+![Détails](screenshots/Détails%20Centres%20Commerciaux.png)
 
 ---
 
@@ -52,7 +52,7 @@ Analyse approfondie grâce au Drillthrough Power BI.
 
 Segmentation par âge, genre et contribution au chiffre d'affaires.
 
-![Analyse clients](captures%20d'écran/Analyse%20Clients.png)
+![Analyse clients](screenshots/Analyse%20Clients.png)
 
 ---
 
@@ -60,7 +60,7 @@ Segmentation par âge, genre et contribution au chiffre d'affaires.
 
 Analyse des ventes, du volume d'articles vendus et des catégories les plus performantes.
 
-![Produits et catégories](captures%20d'écran/Produits%20et%20catégories.png)
+![Produits](screenshots/Produits%20%26%20Catégories.png)
 
 ---
 
